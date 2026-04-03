@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="StatusLogger.png" width="200" />
+    <img src="../StatusLogger.png" width="200" />
 </p>
 # StatusLogger 🔥
 Module PowerShell avancé pour logs professionnels
@@ -7,7 +7,7 @@ Module PowerShell avancé pour logs professionnels
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue?logo=powershell)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-success)
 ![StatusLogger](https://img.shields.io/badge/StatusLogger-v1.0.0-purple)
-![StatusLogger Logo](https://github.com/j-kaluza/SD2.0/main/StatusLogger/logo.png)
+![StatusLogger Logo](https://github.com/j-kaluza/SD2.0/blob/main/StatusLogger/logo.png)
 
 `StatusLogger` est un module PowerShell avancé basé sur une **classe PowerShell v5+**, conçu pour fournir un système de logging complet, clair, lisible et robuste.
 
