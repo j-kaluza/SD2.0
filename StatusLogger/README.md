@@ -59,7 +59,7 @@ Télécharger :
 * https://raw.githubusercontent.com/j-kaluza/SD2.0/main/StatusLogger/StatusLogger.psm1
 * https://raw.githubusercontent.com/j-kaluza/SD2.0/main/StatusLogger/StatusLogger.psd1
 
-Puis placer les fichiers dans C:\Users\<Vous>\Documents\PowerShell\Modules\StatusLogger\ et lancer la commande 
+Puis placer les fichiers dans C:\Users\\<Vous>\Documents\PowerShell\Modules\StatusLogger\ et lancer la commande 
 ```Powershell
 Import-Module StatusLogger
 ```
