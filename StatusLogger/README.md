@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="../StatusLogger.png" width="200" />
+    <img src="https://github.com/j-kaluza/SD2.0/blob/main/StatusLogger/logo.png" width="200" />
 </p>
 # StatusLogger 🔥
 Module PowerShell avancé pour logs professionnels
